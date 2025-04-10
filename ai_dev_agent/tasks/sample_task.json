@@ -1,0 +1,6 @@
+{
+  "task": "Build a Flask API with JWT auth and PostgreSQL",
+  "language": "python",
+  "libraries": ["flask", "flask-jwt-extended", "sqlalchemy"],
+  "steps": ["setup Flask", "create /login", "connect Postgres"]
+}
